@@ -27,6 +27,8 @@ gem 'paperclip', '~> 4.2' #at the writing of this post
 gem 'simple_form', '~> 3.1.0'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'jquery-rails'
+gem 'devise'
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
